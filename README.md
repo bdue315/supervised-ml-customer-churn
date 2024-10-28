@@ -16,6 +16,7 @@ Develop a model to forecast customer turnover at the bank.
 1. Downloaded and reviewed data
 2. Preprocessed data
 3. Exploratory data analysis
+![Bank Churn Model Correlation Matrix](sprint_8_eda_image.png)
 4. Train different models
    a. Unscaled and scaled data
    b. Upsampled data
